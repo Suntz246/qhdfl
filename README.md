@@ -11,4 +11,4 @@ web是前端代码
 web可以在本地tomcat跑
 service自行打包成war包放到服务器的tomcat下
 
-如何远程连接度武器数据库:https://blog.csdn.net/weixin_43025071/article/details/88603053
+如何远程连接服务器数据库:https://blog.csdn.net/weixin_43025071/article/details/88603053
